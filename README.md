@@ -7,7 +7,8 @@ This project aims to analyse Chocolates Sales Data of a fictitious company calle
 ## Data Sources
 The primary dataset used for this analysis is 'ac-sample-data.xlsx' file, containing detailed information about Shipment Data, Dimension Data, Calendar Table.
 
-See the full dashboard here - [Power BI dashboard report Link](https://app.powerbi.com/reportEmbed?reportId=24f2ca7a-2c53-4962-8528-7716582411fb&autoAuth=true&ctid=d357daed-2125-4151-a317-783524ea6418)
+## See the full dashboard here 
+- [Power BI dashboard report Link](https://app.powerbi.com/reportEmbed?reportId=24f2ca7a-2c53-4962-8528-7716582411fb&autoAuth=true&ctid=d357daed-2125-4151-a317-783524ea6418)
 
 <img width="721" alt="Power BI-ChocoSalesDashboard" src="https://github.com/user-attachments/assets/15d553f1-0962-4440-aee4-f042c090c441" />
 
@@ -20,4 +21,4 @@ See the full dashboard here - [Power BI dashboard report Link](https://app.power
 - Slicers
 - Tooltip design
 
-  #### Ref: This project was inspired from chandoo.org
+  ##### Ref: This project was inspired from chandoo.org
