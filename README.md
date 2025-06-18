@@ -11,6 +11,8 @@ The primary dataset used for this analysis is 'ac-sample-data.xlsx' file, contai
 
 <img width="721" alt="Power BI-ChocoSalesDashboard" src="https://github.com/user-attachments/assets/15d553f1-0962-4440-aee4-f042c090c441" />
 
+https://github.com/user-attachments/assets/a6e56ba4-902a-4c74-8628-a1038262d243
+
 ### 🎯 Objectives
 - Analyze sales, profit, and discount distribution across multiple dimensions  <br/>
 - Identify top-performing categories, regions, and customer segments   <br/>
