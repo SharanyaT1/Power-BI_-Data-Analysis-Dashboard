@@ -36,10 +36,10 @@ https://github.com/user-attachments/assets/a6e56ba4-902a-4c74-8628-a1038262d243
 - 🧭 Slicers for dynamic filtering by category, region, and customer segment <br/>
 
 ### 💡 Insights & Outcomes
--Total sales reached $34M, but Month-over-Month dropped by 10.8%, indicating a recent performance dip. <br/>
--Profit margin stands at 60.3%, showing healthy profitability despite shipment fluctuations. <br/>
--Top salesperson: Kelci Walkden led with $1.5M in sales and a 65.1% profit margin, indicating high efficiency. <br/>
--Shipment trends show irregular monthly volumes, highlighting the need for better logistics planning or forecasting. <br/>
+- Total sales reached $34M, but Month-over-Month dropped by 10.8%, indicating a recent performance dip. <br/>
+- Profit margin stands at 60.3%, showing healthy profitability despite shipment fluctuations. <br/>
+- Top salesperson: Kelci Walkden led with $1.5M in sales and a 65.1% profit margin, indicating high efficiency. <br/>
+- Shipment trends show irregular monthly volumes, highlighting the need for better logistics planning or forecasting. <br/>
 
 ### 🚀 Future Improvements
 - Implement dynamic drill-through pages to explore individual product lines, teams, or regions in more detail <br/>
