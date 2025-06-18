@@ -1,8 +1,7 @@
-# Power-BI_-Data-Analysis-Dashboard
+# 📊  Power BI Data-Analysis Dashboard for Chocolate sales
 
-## Project Overview
-This project aims to analyse Chocolates Sales Data of a fictitious company called 'Awesome Chocolates'. Data is analysed and visualised in Power BI to provide insights into Total Sales, shipments, costs, profits and much more. It also shows sales persons performance and Products Performance tables, Shipment Analysis and Trends. one can also filter the data visualisation based on selected location/s and/or selected product/s.
-
+### 🔍 Project Overview
+This project aims to analyse Chocolates Sales Data of a fictitious company called 'Awesome Chocolates'. Data is analysed and visualised in Power BI to provide insights into Total Sales, shipments, costs, profits and discount performance across regions, categories, and customer segments. The dashboard supports dynamic filtering and helps uncover patterns and trends for better business decision-making.
 
 ## Data Sources
 The primary dataset used for this analysis is 'ac-sample-data.xlsx' file, containing detailed information about Shipment Data, Dimension Data, Calendar Table.
@@ -12,13 +11,44 @@ The primary dataset used for this analysis is 'ac-sample-data.xlsx' file, contai
 
 <img width="721" alt="Power BI-ChocoSalesDashboard" src="https://github.com/user-attachments/assets/15d553f1-0962-4440-aee4-f042c090c441" />
 
-### Concepts used
-- DAX measures (Beginner level)
-- KPI cards
-- Dynamic Trend Analysis Chart with Field Parameters
-- Shipment Analysis with Histogram, zoom slider
-- Bookmark for sales persons performance and Product performance tables
-- Slicers
-- Tooltip design
+### 🎯 Objectives
+- Analyze sales, profit, and discount distribution across multiple dimensions  < br / >
+- Identify top-performing categories, regions, and customer segments  < br / >
+- Explore correlation between discount rates and profit  < br / >
+- Enable interactive filtering for on-the-fly insights< br / >
+
+### 🧩 Tools & Techniques
+- **Power BI Desktop** for dashboard creation  < br / >
+- **Power Query** for data cleaning and transformation  < br / >
+- **DAX** for calculated measures and KPIs  < br / >
+- **Excel** as the data source< br / >
+- Dynamic Trend Analysis Chart with **Field Parameters**< br / >
+- Shipment Analysis with **Histogram, zoom slider**< br / >
+- **Bookmark** for sales persons performance and Product performance tables< br / >
+- **Slicers**< br / >
+- **Tooltip** design< br / >
+  
+### 📈 Key Features
+- 📌 KPI cards for total sales, profit, and discount  < br / >  
+- 📊 Bar and column charts for category and sub-category performance   < br / >
+- 🧭 Slicers for dynamic filtering by category, region, and customer segment< br / >
+
+### 💡 Insights & Outcomes
+-Total sales reached $34M, but Month-over-Month dropped by 10.8%, indicating a recent performance dip.
+-Profit margin stands at 60.3%, showing healthy profitability despite shipment fluctuations.
+-Top salesperson: Kelci Walkden led with $1.5M in sales and a 65.1% profit margin, indicating high efficiency.
+-Shipment trends show irregular monthly volumes, highlighting the need for better logistics planning or forecasting.
+
+### 🚀 Future Improvements
+- Implement dynamic drill-through pages to explore individual product lines, teams, or regions in more detail.
+- Introduce predictive analytics using Power BI forecasting features  
+- Optimize visuals for mobile view  
+
+### 🧠 What I Learned
+- Applied DAX to derive meaningful KPIs like profit margin and discount impact  
+- Practiced effective use of filters, slicers, and custom visuals  
+- Strengthened skills in business storytelling through visual analytics  
+- Gained experience translating raw transactional data into strategic insights
+
 
   ##### Ref: This project was inspired from chandoo.org
