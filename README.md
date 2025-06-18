@@ -1,4 +1,4 @@
-# 📊  Power BI Data-Analysis Dashboard for Chocolate sales
+# 📊 Power BI Data-Analysis Dashboard for Chocolate sales
 
 ### 🔍 Project Overview
 This project aims to analyse Chocolates Sales Data of a fictitious company called 'Awesome Chocolates'. Data is analysed and visualised in Power BI to provide insights into Total Sales, shipments, costs, profits and discount performance across regions, categories, and customer segments. The dashboard supports dynamic filtering and helps uncover patterns and trends for better business decision-making.
